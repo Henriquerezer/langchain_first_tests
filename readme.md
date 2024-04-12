@@ -1,1 +1,1 @@
-# PROJETOS DE LLM COM LANGCHAIN
+# Primeiros estudos LLM E LANGCHAIN
