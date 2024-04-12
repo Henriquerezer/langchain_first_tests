@@ -1,0 +1,1 @@
+# Primeiros estudos com RAG utilizando LANGCHAIN
